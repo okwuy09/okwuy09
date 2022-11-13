@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okwuy09
-- 👀 I’m interested in flutter and web developement using wordPress 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on flutter or WordPress Dev
+- 👀 I’m interested in flutter Application development
+- 🌱 I’m proficient in dart, Flutter framework
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me Drop a comment
 
 <!---
