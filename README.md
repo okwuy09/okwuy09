@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okwuy09
+- 👋 Hi, I’m Maduka Okwuchukwu Nnaemeka
 - 👀 I’m interested in flutter Application development
 - 🌱 I’m proficient in dart, Flutter framework
 - 💞️ I’m looking to collaborate on flutter projects
